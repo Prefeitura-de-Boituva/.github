@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://boituva.mitraonline.com.br/servicosonline/img/login/brasao.png"
        alt="Brasão da Prefeitura de Boituva"
-       width="180">
+       width="100">
 </p>
 
 <p align="center">
